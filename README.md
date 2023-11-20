@@ -4,7 +4,7 @@
 This project focuses on building a Random Forest model for the classification of Amazon Alexa customer reviews. By analyzing the textual content of reviews and associated star ratings, the goal is to gain insights into consumer sentiments and perform sentiment analysis on the data. Understanding customer sentiments can aid in product improvement, marketing strategies, and overall customer satisfaction.
 
 ## Data
-The dataset used for this project is sourced from Kaggle and can be found at Amazon Alexa Reviews. It comprises nearly 3000 customer reviews for various Amazon Alexa products, including Alexa Echo, Echo Dots, Alexa Firesticks, and more. The dataset includes information such as the input text of the reviews, star ratings, date of the review, and product variants.
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews) and can be found at Amazon Alexa Reviews. It comprises nearly 3000 customer reviews for various Amazon Alexa products, including Alexa Echo, Echo Dots, Alexa Firesticks, and more. The dataset includes information such as the input text of the reviews, star ratings, date of the review, and product variants.
 
 ## Features
 - Input Text: The textual content of the customer reviews.
